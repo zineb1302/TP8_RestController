@@ -16,9 +16,20 @@ a) Requête GET pour obtenir la liste des comptes en JSON
 
 b) Requête GET pour obtenir la liste des comptes en XML
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2eeefc1a-b02d-4777-9d00-47beb281d2a7" />
-c) Requête POST pour créer un nouveau compte en JSON
+c) Requête POST pour créer un nouveau compte en JSON et XML 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c961e4c0-4fe1-4769-bf1b-aec1b0c5044a" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8f2f8da6-5e41-44b1-9dd4-ffcf2464b429" />
-
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/01dac0b1-e256-472b-a818-8fc2c74b34ae" />
+e) Requête PUT pour mettre à jour un compte en JSON
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ad750722-d68e-43b7-8b60-1371c691ce32" />
+f) Requête PUT pour mettre à jour un compte en XML
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b16ff4d2-3b40-40a2-91b5-8ae58c785377" />
+g) Requête DELETE pour supprimer un compte
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8311b977-0ea4-4855-bf65-cfe081dd91ed" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3b288425-421d-49a6-956d-edb76ef12e68" />
+
+
+
 
